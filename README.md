@@ -1,2 +1,2 @@
-# microfrontends-platform-security-oauthserver
-Basic oauth server
+# Keycloak for Microfrontends PoC
+
